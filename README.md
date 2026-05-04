@@ -1,6 +1,6 @@
 # Salient Object Detection
 
-End-to-End ML/DL Project — Cohort V
+End-to-End ML/DL Project 
 
 ## Dataset
 DUTS-TR: 10,553 images with pixel-accurate saliency masks
